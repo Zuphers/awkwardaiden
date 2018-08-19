@@ -1,0 +1,13 @@
+{
+  "name": "AwkwardAiden",
+  "description": "Official Awkward Aiden Bot",
+  "version": "1.2"
+  "main": "bot.py",
+  "scripts": {
+    "start": node bot.py
+  }
+  "dependencies": {
+    "discord.py": "11.1.0"
+  }
+}
+ 
